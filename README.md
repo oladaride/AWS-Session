@@ -1,4 +1,9 @@
-##  Deploying a Node.js Application on AWS EC2
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Stripe](https://img.shields.io/badge/Stripe-Integration-blue)
+
+
+##  Deploying a Dynamic Node.js Application on AWS EC2
 
 This project demonstrates how I deployed a NodeJS Stripe application on an AWS EC2 instance.  
 It is based on an original repo by [Kunal Verma](https://github.com/verma-kunal/AWS-Session),
@@ -80,6 +85,10 @@ npm run start
 > NOTE - I edited the **inbound rules** in the security group of my EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 
+
+### 🌐 Live Demo
+[View deployed app](http://13.61.12.180:3000/)
+
 
 <img width="1366" height="768" alt="Screenshot (1569)" src="https://github.com/user-attachments/assets/81daabde-49df-4dce-ac62-db3ff9b0b5d2" />
 <img width="1366" height="768" alt="Screenshot (1568)" src="https://github.com/user-attachments/assets/ddc1a816-1787-4759-84e5-7b4721cece92" />
