@@ -5,8 +5,6 @@ It is based on an original repo by [Kunal Verma](https://github.com/verma-kunal/
 but I customized and deployed it myself to learn cloud deployment and environment configuration.
 
 
-# Deploying a Node Js Application on AWS EC2
-
 ### Testing the project locally
 
 1. Cloned this project
@@ -52,7 +50,7 @@ sudo apt update
 
 ### Deploying the project on AWS
 
-1. Forked this project in the remote VM. Appreciation to Kunal Verma
+1. Forked this project in the remote VM.
 ```
 git clone https://github.com/verma-kunal/AWS-Session.git
 ```
@@ -82,9 +80,11 @@ npm run start
 > NOTE - I edited the **inbound rules** in the security group of my EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 
-<img width="1366" height="768" alt="Screenshot (1570)" src="https://github.com/user-attachments/assets/bb5f2f49-39ac-46ec-9579-ad4ac8d9cc65" />
-<img width="1366" height="768" alt="Screenshot (1567)" src="https://github.com/user-attachments/assets/cf47e0b5-7dbe-4316-bfd3-eb46d1932b05" />
-<img width="1366" height="768" alt="Screenshot (1566)" src="https://github.com/user-attachments/assets/0f72e005-43c7-498e-8167-265fcf7f68b5" />
-<img width="1366" height="768" alt="Screenshot (1565)" src="https://github.com/user-attachments/assets/39c5a6be-1bdd-4bdb-b9ae-a5131debb720" />
+
 <img width="1366" height="768" alt="Screenshot (1569)" src="https://github.com/user-attachments/assets/81daabde-49df-4dce-ac62-db3ff9b0b5d2" />
 <img width="1366" height="768" alt="Screenshot (1568)" src="https://github.com/user-attachments/assets/ddc1a816-1787-4759-84e5-7b4721cece92" />
+<img width="1366" height="768" alt="Screenshot (1569)" src="https://github.com/user-attachments/assets/7105fa2f-0201-4444-8fab-71f2d6da5847" />
+<img width="1<img width="1366" height="768" alt="Screenshot (1565)" src="https://github.com/user-attachments/assets/09e6c9e5-b54c-4a8d-a674-b081c8d004dd" />
+366" height="768" alt="Screenshot (1568)" src="https://github.com/user-attachments/assets/4ee25428-a8af-48d4-8be1-4fa022045ee0" />
+<img width="1366" height="768" alt="Screenshot (1567)" src="https://github.com/user-attachments/assets/b6d80995-db42-474b-877c-871454e9cc18" />
+<img width="1366" height="768" alt="Screenshot (1570)" src="https://github.com/user-attachments/assets/922f6bf1-6668-4c13-9c4f-33d4b86961fa" />
